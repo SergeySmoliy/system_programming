@@ -1,0 +1,13 @@
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.exe
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.pdb
+C:\Users\PKO\Desktop\Новая папка (4)\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe.config
+C:\Users\PKO\Desktop\Новая папка (4)\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe
+C:\Users\PKO\Desktop\Новая папка (4)\ConsoleApplication43\bin\Debug\ConsoleApplication43.pdb
+C:\Users\PKO\Desktop\Новая папка (4)\ConsoleApplication43\obj\Debug\ConsoleApplication43.csprojAssemblyReference.cache
+C:\Users\PKO\Desktop\Новая папка (4)\ConsoleApplication43\obj\Debug\ConsoleApplication43.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Desktop\Новая папка (4)\ConsoleApplication43\obj\Debug\ConsoleApplication43.exe
+C:\Users\PKO\Desktop\Новая папка (4)\ConsoleApplication43\obj\Debug\ConsoleApplication43.pdb

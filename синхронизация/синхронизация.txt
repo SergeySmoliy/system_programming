@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
+using static System.Console;
+namespace ConsoleApp16
+{
+    class Program
+    {
+       
+            static void Main(string[] args)
+            {
+                const string mutexName = "ConsoleApp1";
+                Mutex m = null;
+            
+
+                try
+                {
+
+                    m = Mutex.OpenExisting(mutexName);
+                   
+
+                }
+                catch (WaitHandleCannotBeOpenedException)
+                {
+                    
+                }
+            if(m!=null)
+            {
+                WriteLine(" App was started");
+                ReadKey();
+            }
+            else
+            {
+                using (m = new Mutex(true, mutexName))
+                {
+                    WriteLine(" App starts now");
+                    ReadKey();
+                }
+            }
+
+            }
+
+
+        
+    }
+}
